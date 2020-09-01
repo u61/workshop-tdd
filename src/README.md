@@ -1,3 +1,7 @@
+# Before you start
+Run `npm install`
+
+# Exercise
 Test-drive some code that will calculate the total net value of items in a shopping cart 
 represented as a list of unit price and quantity – e.g. `[[10.0, 5], [25.5, 2]]`.
 
